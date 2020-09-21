@@ -103,7 +103,7 @@ Then I trained my model on <b>SVM Classifer</b> and <b>Logistic Regression Class
 
 After training my models using four different algorithm, it was time for prediction of test_data to check the accuracy of our model and to decide which model is giving us the best result.
 
-![result](/images/result.jpg)
+![result](/images/result.JPG)
 
 From the above table, we can see that all algorithms are giving very similar accuracy results for the performace metrics we used. But, if we have to chhose one, then we can go for Logistic Regression. It is simple to implement ans also faster to implemennt.
 
